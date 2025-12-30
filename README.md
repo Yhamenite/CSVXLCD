@@ -32,7 +32,7 @@ To run this tool, ensure you have **Python 3.x** installed. The script relies on
 
 1.  **Clone this repository** (or download the script):
     ```bash
-    git clone [https://github.com/Yhamenite/CSVXLCD.git
+    git clone https://github.com/Yhamenite/CSVXLCD.git
     ```
 
 2.  **Install the required dependencies** using pip:
